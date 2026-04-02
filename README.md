@@ -10,8 +10,6 @@ The Tableau dashboard regarding food insecurity in the United States in 2024 is 
 
 The interactive dashboard can be downloaded here. https://public.tableau.com/views/FoodInsecurity2024/Dashboard3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
 
-
-
 ## Big Picture
 In 2024, food insecurity affected almost one in seven American homes. This indicated that 18.7 million families were unsure about their food supply. Additionally, 7.2 million families, or 5.4% of all families, had very low levels of food insecurity. The problem was not improving. Food insecurity is a persistent problem, as seen by the 0.5% increase in 2024 compared to 2023. That issue still exists. Now consider income: nearly 40% of households with incomes below the poverty level experienced food insecurity. Food insecurity is therefore not a random issue. It is related to resources and income.
 
@@ -20,15 +18,21 @@ In 2024, food insecurity affected almost one in seven American homes. This indic
 <img width="945" height="728" alt="image" src="https://github.com/user-attachments/assets/995e47dd-23f6-40c5-80d7-fd6ab9ad2893" />
 
 Not everyone is affected by food insecurity in the same way. It is significantly higher among: 
-• Black households (10.5% extremely low food insecurity, 24.4% food insecurity)
-• Hispanic households had 6.4% very low food insecurity and 20.20% food insecurity.
+
+   • Black households (10.5% extremely low food insecurity, 24.4% food insecurity)
+
+   • Hispanic households had 6.4% very low food insecurity and 20.20% food insecurity.
 Thus, it is connected to more significant social and economic disparities rather than just individual decisions.
 
 The structure of the household is equally important.
 The highest rates can be found in:
-• Food insecurity among single mothers (36.8%)
-• Food insecurity among single fathers (23.8%)
-• Individuals who live alone (women: 16.2%, men: 14.7%)
+
+   • Food insecurity among single mothers (36.8%)
+
+   • Food insecurity among single fathers (23.8%)
+
+   • Individuals who live alone (women: 16.2%, men: 14.7%)
+
 Married-couple families, on the other hand, typically have significantly lower rates since they share support and income.
 
 ## Disabilities, Education, Education
@@ -52,15 +56,16 @@ So in conclusion,
 Food insecurity is not random.
 It is structural.
 It follows clear patterns:
-•	Income
 
-•	Race and ethnicity
+   •	Income
 
-•	Health and disability
+   •	Race and ethnicity
 
-•	Education
+   •	Health and disability
 
-•	Employment
+   •	Education
+
+   •	Employment
 
 We cannot treat food poverty as simply a food issue if we hope to reduce it.
 It is a social issue, an economic issue, and a systems issue.
