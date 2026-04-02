@@ -53,9 +53,13 @@ Food insecurity is not random.
 It is structural.
 It follows clear patterns:
 •	Income
+
 •	Race and ethnicity
+
 •	Health and disability
+
 •	Education
+
 •	Employment
 
 We cannot treat food poverty as simply a food issue if we hope to reduce it.
