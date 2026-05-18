@@ -1,4 +1,4 @@
-# Food-Insecurity
+# Food-Insecurity Analysis
 
 ## Project Background 
 Food insecurity occurs when an individual or household skips meals or eats less nutritious or low-quality food because it is more affordably priced.
@@ -8,8 +8,7 @@ The Tableau dashboard regarding food insecurity in the United States in 2024 is 
 
 <img width="1908" height="1037" alt="image" src="https://github.com/user-attachments/assets/8050ecab-dc5e-4c14-8a7a-74d4a966bef7" />
 
-The interactive dashboard can be downloaded here. https://public.tableau.com/views/FoodInsecurity2024/Dashboard3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
-
+The interactive dashboard can be downloaded <a href='https://public.tableau.com/views/FoodInsecurity2024/Dashboard3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link '> here </a>.
 ## Big Picture
 In 2024, food insecurity affected almost one in seven American homes. This indicated that 18.7 million families were unsure about their food supply. Additionally, 7.2 million families, or 5.4% of all families, had very low levels of food insecurity. The problem was not improving. Food insecurity is a persistent problem, as seen by the 0.5% increase in 2024 compared to 2023. That issue still exists. Now consider income: nearly 40% of households with incomes below the poverty level experienced food insecurity. Food insecurity is therefore not a random issue. It is related to resources and income.
 
